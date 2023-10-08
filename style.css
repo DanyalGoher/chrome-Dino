@@ -38,14 +38,14 @@ html{
     height: 73px;
     width: 70px;
 }
-    /* @keyframes move {
+     @keyframes move {
     0%{
         left: 565px;
     }
     100%{
         left: 0px;
     }
-}  */
+}  
 #result{
     height: 200px;
     width: 400px;
